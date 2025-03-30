@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RentCarApp.AddCar" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yKBJAIBiGAAEhAAiACIhBACCAAAEAIAwkAApAgLAvA=</HashCode>
+      <FileName>AddCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.AddCustomer" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XwIAhAAAASEQGAIEAACAAgEiABAABACAhgAAgAgAArg=</HashCode>
+      <FileName>AddCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.AddEmployee" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIEggAAECAQGVIHAAmIAgMiACAAAAAAggEAMAgAIoA=</HashCode>
+      <FileName>AddEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.AddRent" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/zporNUzyGERmFY37UCBBl0DAgoRjijSm3SHQQv+Abg=</HashCode>
+      <FileName>AddRent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Car" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAEAABAAkAgwAJAgoAEAoIAAEgAAIlAAECJAgBgAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.DBConnection" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAEAAAABAAAAAAAAAAACQAEIAACBAAA=</HashCode>
+      <FileName>DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.DbLogIn" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAQAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>DbLogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.DbManager" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAIAAABAAACAAAAEAAQAAAQAAIAAAAAABAA=</HashCode>
+      <FileName>DbManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.DbSecretary" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgESDAAAAAQEAQDqAQkCABACIYQCAAAIAYCAgCASDEI=</HashCode>
+      <FileName>DbSecretary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Driver_Licensing" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAgAAAAIAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Driver_Licensing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Employee" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAICAgACAgQAAAAEAAAAAAAAACAAAAQgAAAEA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Extensions" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Extensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.LogIn" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAABAQCAAAQAGAASIACACCAAAAAAAIAAgAAAAEAA=</HashCode>
+      <FileName>LogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Manager" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>poKiDgoBDCFCOToAYUK0iCQuAIGcTxAQhAMAUYTALrg=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Manager1" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEAACAAAACAMA5AAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Program" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAEAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Rent_Details" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAhAAAFEQAABQIAACQSAAEYFCAACIQgAGCAgABQ=</HashCode>
+      <FileName>Rent_Details.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.User" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAAAQAAAAkAAAAAAAYAACACAABCAAAAYgA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Properties.Resources" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCarApp.Properties.Settings" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
