@@ -163,6 +163,7 @@ Visible only to the manager, this tab is used to manage employee accounts and sy
 
 📷 Screenshot:  
 ![Employee Tab](images/EmployeeTab.png)
+![Employee Add](images/AddEmployee.png)
 
 ---
 
