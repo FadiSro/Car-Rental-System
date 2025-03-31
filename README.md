@@ -98,7 +98,7 @@ The **Rent Tab** is the core of the system for handling rental operations.
 - 🧾 **Print Rental Reports** — generate reports for record keeping or clients
 
 ---
-
+ 
 ### 🖼️ Interface Overview
 
 ![Rent and Notes Tabs](images/Rent-Note tap.png)
