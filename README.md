@@ -41,3 +41,29 @@ After successful verification, the user is asked to enter and confirm a new pass
 
 ![Enter New Password](images/Password-Change1.png)
 
+
+
+## 📊 Main Dashboard (Manager & Secretary View)
+
+After login, users are taken to their role-based dashboard. Both managers and secretaries see the list of active rentals, clients, vehicles, and key details for daily operations.
+
+This dashboard is the central hub of the system and allows both roles to:
+- View all current rentals and associated clients
+- Access client and vehicle information
+- View and filter reminders and notifications (like license/insurance expiration dates)
+- Perform vehicle return and rental operations
+
+The difference between the manager and secretary interface is mainly in **access control** — the manager has more permissions for user management and system settings.
+
+---
+
+### 👨‍💼 Manager Dashboard View
+
+![Manager View](images/manager.png)
+
+---
+
+### 👩‍💼 Secretary Dashboard View
+
+![Secretary View](images/secretary.png)
+
