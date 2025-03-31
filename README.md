@@ -146,7 +146,8 @@ This tab handles all client management and rental history. It is accessible to b
 - 🖨️ **Print Client Report** for documentation or legal use
 
 📷 Screenshot:  
-![Client Tab](images/ClientTab.png)
+![Client Tab](images/ClientTap.png)
+![Client Add](images/AddClient.png)
 
 ---
 
