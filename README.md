@@ -181,3 +181,17 @@ This powerful section gives managers a full view of business performance through
 
 ---
 
+### 🔁 Actions Example: Add / Update / Delete (Cars & Clients)
+
+Each tab includes the ability to add, edit, and in some cases delete records with role-based permissions.
+
+**Examples:**
+- ➕ Add a new car or client to the system
+- ✏️ Update client details like address, phone number, or license
+- ❌ Delete outdated cars (only by manager)
+- 🖨️ Print reports for external use or archiving
+
+📷 Screenshot:  
+![Add-Update-Example](images/AddUpdateActions.png)
+
+---
