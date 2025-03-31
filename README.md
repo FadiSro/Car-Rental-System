@@ -103,6 +103,6 @@ The **Rent Tab** is the core of the system for handling rental operations.
 
 ### 🖼️ Interface Overview
 
-![Rent and Notes Tabs](images/Rent-Note tap.png)
+![Rent and Notes Tabs](images/Rent-Note-tap.png)
 
 
