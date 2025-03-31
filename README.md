@@ -109,6 +109,7 @@ It is accessible to **both managers and secretaries**, providing a shared worksp
 
 ![Rent and Notes Tabs](images/Rent-Note-tap.png)
 ![Add-Rent](images/AddRent.png)
+![Add-Rent](images/Payment.png)
 
 ---
 
@@ -181,6 +182,7 @@ This powerful section gives managers a full view of business performance through
 
 📷 Screenshot:  
 ![Reports Tab](images/ReportsTab.png)
+![Reports](images/Report.png)
 
 ---
 
@@ -194,7 +196,4 @@ Each tab includes the ability to add, edit, and in some cases delete records wit
 - ❌ Delete outdated cars (only by manager)
 - 🖨️ Print reports for external use or archiving
 
-📷 Screenshot:  
-![Add-Update-Example](images/AddUpdateActions.png)
 
----
