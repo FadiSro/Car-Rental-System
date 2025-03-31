@@ -86,10 +86,14 @@ The **Notes Tab** allows employees to manage reminders and internal communicatio
 - 📌 Shared visibility: **All notes are visible to all users** across the system
 
 ---
+## 🧭 System Tabs Overview
+The Car Rental System is divided into several functional tabs designed to simplify daily operations and ensure data is organized, accessible, and secure. Each tab is role-based — certain sections are only visible to the manager.
+
 
 ### 🚗 Rent Tab (Main Area)
 
 The **Rent Tab** is the core of the system for handling rental operations.
+It is accessible to **both managers and secretaries**, providing a shared workspace to manage the entire car rental process.
 
 **Main Features:**
 - 🔍 **Search Rentals** — filter by rental number, customer ID, or vehicle number
@@ -105,4 +109,69 @@ The **Rent Tab** is the core of the system for handling rental operations.
 
 ![Rent and Notes Tabs](images/Rent-Note-tap.png)
 
+
+---
+
+### 🚗 Car Tab
+
+This tab allows authorized users (both managers and secretaries) to manage all vehicle-related data.
+
+**Main Features:**
+- 🔍 **Search** for cars using model, plate number, or manufacturer
+- ➕ **Add New Car** to the system
+- 🛠️ **Update Existing Car** details (model, year, availability)
+- ❌ **Delete Car** from the system if it's no longer in use
+
+📷 Screenshot:  
+![Car Tab](images/CarTab.png)
+
+---
+
+### 👤 Client Tab
+
+This tab handles all client management and rental history. It is accessible to both managers and secretaries.
+
+**Main Features:**
+- 🔍 **Search Clients** by name, ID, or contact number
+- ➕ **Add New Client** with full personal and license details
+- ✏️ **Update Client** data when needed
+- 💾 **Save Client Report** with history and rental details
+- 🖨️ **Print Client Report** for documentation or legal use
+
+📷 Screenshot:  
+![Client Tab](images/ClientTab.png)
+
+---
+
+### 👥 Employees Tab *(Manager Only)*
+
+Visible only to the manager, this tab is used to manage employee accounts and system access.
+
+**Main Features:**
+- 🔍 **Search Employees** by name, role, or ID
+- ➕ **Add New Employee** (assigning default login and role)
+- ✏️ **Update Employee** information
+- 💾 **Save Employee Report** for record keeping and evaluation
+
+📷 Screenshot:  
+![Employee Tab](images/EmployeeTab.png)
+
+---
+
+### 📊 Reports Tab *(Manager Only)*
+
+This powerful section gives managers a full view of business performance through reports.
+
+**Main Features:**
+- 🔍 **Search Reports** for cars, employees, and system activity
+- 💾 **Save Reports** for offline access
+- 🖨️ **Print Reports** for:
+  - 🚘 Car activity/performance
+  - 👥 Employee performance
+  - 📈 Overall business metrics
+
+📷 Screenshot:  
+![Reports Tab](images/ReportsTab.png)
+
+---
 
