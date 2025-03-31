@@ -114,13 +114,19 @@ It is accessible to **both managers and secretaries**, providing a shared worksp
 
 ### 🚗 Car Tab
 
-This tab allows authorized users (both managers and secretaries) to manage all vehicle-related data.
+This tab allows both managers and secretaries to access vehicle-related data, but with different permission levels.
 
-**Main Features:**
-- 🔍 **Search** for cars using model, plate number, or manufacturer
+- The **manager** has full control over vehicle management.
+- The **secretary** can only **search and view** vehicle information.
+
+**Manager Features:**
+- 🔍 **Search Cars** using model, plate number, or manufacturer
 - ➕ **Add New Car** to the system
-- 🛠️ **Update Existing Car** details (model, year, availability)
+- 🛠️ **Update Car Details** such as model, year, and availability
 - ❌ **Delete Car** from the system if it's no longer in use
+
+**Secretary Features:**
+- 🔍 **Search Cars** only — no edit, delete, or add permissions
 
 📷 Screenshot:  
 ![Car Tab](images/CarTab.png)
