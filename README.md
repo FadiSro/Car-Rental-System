@@ -92,14 +92,17 @@ The **Notes Tab** allows employees to manage reminders and internal communicatio
 The **Rent Tab** is the core of the system for handling rental operations.
 
 **Main Features:**
+- 🔍 **Search Rentals** — filter by rental number, customer ID, or vehicle number
+- 👁️ **Review Rental Records** — view all current and past rental data
 - ➕ **Add New Rental** — select a customer and available car to start a rental
 - 🔄 **Update Rental** — modify active rental details (duration, car, client info)
 - 🔚 **Return Vehicle** — mark a car as returned and update its availability
 - 🧾 **Print Rental Reports** — generate reports for record keeping or clients
 
 ---
- 
+
 ### 🖼️ Interface Overview
 
 ![Rent and Notes Tabs](images/Rent-Note tap.png)
+
 
