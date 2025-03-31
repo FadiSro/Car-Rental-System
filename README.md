@@ -67,3 +67,39 @@ The difference between the manager and secretary interface is mainly in **access
 
 ![Secretary View](images/secretary.png)
 
+
+## 📋 Notes Tab & 🚗 Rent Tab Overview
+
+The main dashboard is divided into key functional sections for efficient task handling by both managers and secretaries.
+
+---
+
+### 📝 Notes Tab (Right Side)
+
+The **Notes Tab** allows employees to manage reminders and internal communication.
+
+**Main Features:**
+- 📅 **Date picker** to filter notes by day
+- ➕ **Add notes** manually (e.g. reminders or messages)
+- 🔄 **Update existing notes** if something changes
+- 👁️ **Review all previous notes** sorted by time
+- 📌 Shared visibility: **All notes are visible to all users** across the system
+
+---
+
+### 🚗 Rent Tab (Main Area)
+
+The **Rent Tab** is the core of the system for handling rental operations.
+
+**Main Features:**
+- ➕ **Add New Rental** — select a customer and available car to start a rental
+- 🔄 **Update Rental** — modify active rental details (duration, car, client info)
+- 🔚 **Return Vehicle** — mark a car as returned and update its availability
+- 🧾 **Print Rental Reports** — generate reports for record keeping or clients
+
+---
+
+### 🖼️ Interface Overview
+
+![Rent and Notes Tabs](images/Rent-Note tap.png)
+
