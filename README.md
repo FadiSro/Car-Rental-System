@@ -1,5 +1,26 @@
 # Car Rental System
 
+---
+
+## 🗄️ Database Structure
+
+Before accessing the system, here's an overview of the **relational database schema** designed for managing the car rental business.
+
+The database includes tables for:
+
+- 🔐 Users and Employee Accounts
+- 🚗 Vehicles and their availability
+- 👤 Clients and Licenses
+- 📄 Invoices and Invoice Items
+- 🖊️ Signatures and Rental Agreements
+- 🧾 Tax and Financial Details
+- 💬 Internal Messages and Notifications
+
+📷 Database Diagram:  
+![Database Schema](images/DatabaseSchema.png)
+
+---
+
 ## 🔐 Login Page
 
 The login page is used to authenticate users before accessing the system. Roles Manager, Secretary are validated against the database.
