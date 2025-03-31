@@ -108,7 +108,7 @@ It is accessible to **both managers and secretaries**, providing a shared worksp
 ### 🖼️ Interface Overview
 
 ![Rent and Notes Tabs](images/Rent-Note-tap.png)
-
+![Add-Rent](images/AddRent.png)
 
 ---
 
@@ -129,7 +129,8 @@ This tab allows both managers and secretaries to access vehicle-related data, bu
 - 🔍 **Search Cars** only — no edit, delete, or add permissions
 
 📷 Screenshot:  
-![Car Tab](images/CarTab.png)
+![Car Tab](images/CarTap.png)
+![Car Add](images/AddCar.png)
 
 ---
 
