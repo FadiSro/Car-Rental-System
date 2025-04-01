@@ -1,6 +1,13 @@
 # Car Rental System
 
 ---
+## 🎥 Project Demo (Video)
+
+Watch a full walkthrough of the Car Rental System on YouTube:
+
+▶️ [Click to watch the demo](https://youtu.be/dVAsB5UlmQw)
+
+---
 
 ## 🗄️ Database Structure
 
@@ -217,4 +224,14 @@ Each tab includes the ability to add, edit, and in some cases delete records wit
 - ❌ Delete outdated cars (only by manager)
 - 🖨️ Print reports for external use or archiving
 
+---
+
+## 📬 Contact
+
+Created by **Fadi Srouji and Elias Horani**
+
+- 📧 Email: fadi_sroujii@outlook.com  
+- 🔗 LinkedIn: [linkedin.com/in/fadisrouji](https://www.linkedin.com/in/fadisrouji)  
+- 💼 GitHub: [github.com/FadiSro](https://github.com/FadiSro)  
+- 🎥 Project Demo: [https://youtu.be/dVAsB5UlmQw](https://youtu.be/dVAsB5UlmQw)
 
